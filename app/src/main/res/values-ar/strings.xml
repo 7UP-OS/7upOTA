@@ -44,8 +44,8 @@
   <!-- Notification -->
   <string name="notification_title">تحديث لنظام تشغيل ريزيريكشين ريميكس</string>
   <string name="notification_message">يتوفر إصدار جديد!</string>
-  <string name="resurrection_channel">إشعارات التحديث عبر الهواء لنظام التشغيل ريزيريكشن</string>
-  <string name="resurrection_channel_description">إشعارات حول تحديثات نظام التشغيل</string>
+  <string name="sevenup_channel">إشعارات التحديث عبر الهواء لنظام التشغيل ريزيريكشن</string>
+  <string name="sevenup_channel_description">إشعارات حول تحديثات نظام التشغيل</string>
   <!-- Dialog -->
   <string name="dialog_message">يتم البحث عن تحديثات للنظام, برجاء الانتظار&#8230;</string>
   <!-- Toast -->

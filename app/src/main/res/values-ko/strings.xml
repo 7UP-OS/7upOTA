@@ -42,10 +42,10 @@
   <string name="autoupdate_enabled">자동 업데이트 확인이 활성화됨</string>
   <string name="autoupdate_disabled">자동 업데이트 확인이 비활성화됨</string>
   <!-- Notification -->
-  <string name="notification_title">RR롬 업데이트</string>
+  <string name="notification_title">7up롬 업데이트</string>
   <string name="notification_message">새로운 업데이트가 존재합니다!</string>
-  <string name="resurrection_channel">RR롬 알림</string>
-  <string name="resurrection_channel_description">RR롬 업데이트 알림</string>
+  <string name="sevenup_channel">7up롬 알림</string>
+  <string name="sevenup_channel_description">7up롬 업데이트 알림</string>
   <!-- Dialog -->
   <string name="dialog_message">ROM 업데이트 확인 중, 잠시만 기다려 주십시오...</string>
   <!-- Toast -->

@@ -42,10 +42,10 @@
   <string name="autoupdate_enabled">Automaattinen päivitys käytössä</string>
   <string name="autoupdate_disabled">Automaattinen päivitys pois käytöstä</string>
   <!-- Notification -->
-  <string name="notification_title">ResurrectuionRemix OS päivitys</string>
+  <string name="notification_title">7up OS päivitys</string>
   <string name="notification_message">Uusi versio on saatavilla!</string>
-  <string name="resurrection_channel">ResurrectionOTA ilmoitus</string>
-  <string name="resurrection_channel_description">Ilmoitukset uusista ResurrectionRemix Os päivityksistä</string>
+  <string name="sevenup_channel">7upOTA ilmoitus</string>
+  <string name="sevenup_channel_description">Ilmoitukset uusista 7up Os päivityksistä</string>
   <!-- Dialog -->
   <string name="dialog_message">Tarkistetaan päivityksiä, odota hetki&#8230;</string>
   <!-- Toast -->

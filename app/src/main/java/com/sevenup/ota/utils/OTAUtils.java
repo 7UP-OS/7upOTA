@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.resurrection.ota.utils;
+package com.sevenup.ota.utils;
 
 import android.content.Context;
 import android.content.Intent;
@@ -23,8 +23,8 @@ import android.net.Uri;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.resurrection.ota.configs.OTAConfig;
-import com.resurrection.ota.R;
+import com.sevenup.ota.configs.OTAConfig;
+import com.sevenup.ota.R;
 
 import java.io.BufferedReader;
 import java.io.File;

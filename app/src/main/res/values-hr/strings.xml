@@ -42,10 +42,10 @@
   <string name="autoupdate_enabled">Automatsko ažuriranje je omogućeno</string>
   <string name="autoupdate_disabled">Automatsko ažuriranje je onemogućeno</string>
   <!-- Notification -->
-  <string name="notification_title">Ažuriranje Resurrection Remix OS-a</string>
+  <string name="notification_title">Ažuriranje 7up OS-a</string>
   <string name="notification_message">Dostupna je nova verzija!</string>
-  <string name="resurrection_channel">ResurrectionOTA obavijesti</string>
-  <string name="resurrection_channel_description">Obavijesti o novim ažuriranjima ResurrectionRemix OS-a</string>
+  <string name="sevenup_channel">7upOTA obavijesti</string>
+  <string name="sevenup_channel_description">Obavijesti o novim ažuriranjima 7up OS-a</string>
   <!-- Dialog -->
   <string name="dialog_message">Traženje ažuriranja sustava, molimo pričekajte&#8230;</string>
   <!-- Toast -->

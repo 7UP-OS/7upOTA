@@ -42,10 +42,10 @@
   <string name="autoupdate_enabled">Οι αυτόματες ενημερώσεις είναι ενεργοποιημένες</string>
   <string name="autoupdate_disabled">Η αυτόματες ενημερώσεις είναι απενεργοποιημένες</string>
   <!-- Notification -->
-  <string name="notification_title">Ενημέρωση ResurrectionRemix OS</string>
+  <string name="notification_title">Ενημέρωση 7up OS</string>
   <string name="notification_message">Μια νέα έκδοση είναι διαθέσιμη!</string>
-  <string name="resurrection_channel">Ειδοποιήσεις ResurrectionOTA</string>
-  <string name="resurrection_channel_description">Ειδοποιήσεις σχετικά με τις νέες ενημερώσεις ResurrectionRemix OS</string>
+  <string name="sevenup_channel">Ειδοποιήσεις s7upOTA</string>
+  <string name="sevenup_channel_description">Ειδοποιήσεις σχετικά με τις νέες ενημερώσεις 7up OS</string>
   <!-- Dialog -->
   <string name="dialog_message">Ελέγχος για ενημερώσεις, παρακαλώ περιμένετε&#8230;</string>
   <!-- Toast -->

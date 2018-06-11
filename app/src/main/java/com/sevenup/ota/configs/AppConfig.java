@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.resurrection.ota.configs;
+package com.sevenup.ota.configs;
 
 import android.app.AlarmManager;
 import android.app.job.JobInfo;
@@ -24,9 +24,9 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
-import com.resurrection.ota.R;
-import com.resurrection.ota.tasks.OTAService;
-import com.resurrection.ota.utils.OTAUtils;
+import com.sevenup.ota.R;
+import com.sevenup.ota.tasks.OTAService;
+import com.sevenup.ota.utils.OTAUtils;
 
 import java.text.DateFormat;
 import java.util.Date;

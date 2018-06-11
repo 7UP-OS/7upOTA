@@ -42,10 +42,10 @@
   <string name="autoupdate_enabled">การอัปเดตอัตโนมัติเปิดใช้งาน</string>
   <string name="autoupdate_disabled">การอัปเดตอัตโนมัติปิดใช้งาน</string>
   <!-- Notification -->
-  <string name="notification_title">Resurrection Remix OS</string>
+  <string name="notification_title">7up OS</string>
   <string name="notification_message">มีเวอร์ชั่นใหม่</string>
-  <string name="resurrection_channel">การแจ้งเตือน ResurrectionOTA</string>
-  <string name="resurrection_channel_description">การแจ้งเตือนเกี่ยวกับการปรับปรุงใหม่ ResurrectionRemix OS</string>
+  <string name="sevenup_channel">การแจ้งเตือน 7upOTA</string>
+  <string name="sevenup_channel_description">การแจ้งเตือนเกี่ยวกับการปรับปรุงใหม่ 7up OS</string>
   <!-- Dialog -->
   <string name="dialog_message">กำลังตรวจสอบการอัพเดต, กรุณารอสักครู่ ...</string>
   <!-- Toast -->

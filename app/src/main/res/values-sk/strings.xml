@@ -42,10 +42,10 @@
   <string name="autoupdate_enabled">Automatické aktualizácie sú povolené</string>
   <string name="autoupdate_disabled">Automatické aktualizácie sú zakázané</string>
   <!-- Notification -->
-  <string name="notification_title">Aktualizácia Resurrection Remix OS</string>
+  <string name="notification_title">Aktualizácia 7up OS</string>
   <string name="notification_message">Nová verzia je k dispozícii!</string>
-  <string name="resurrection_channel">Upozornenia ResurrectionOTA</string>
-  <string name="resurrection_channel_description">Upozornenia na nové aktualizácie ResurrectionRemix OS</string>
+  <string name="sevenup_channel">Upozornenia 7upOTA</string>
+  <string name="sevenup_channel_description">Upozornenia na nové aktualizácie 7up OS</string>
   <!-- Dialog -->
   <string name="dialog_message">Kontrola aktualizácie ROM, čakajte prosím&#8230;</string>
   <!-- Toast -->

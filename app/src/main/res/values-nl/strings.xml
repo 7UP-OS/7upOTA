@@ -42,10 +42,10 @@
   <string name="autoupdate_enabled">Automatische updates zijn ingeschakeld</string>
   <string name="autoupdate_disabled">Automatische updates zijn uitgeschakeld</string>
   <!-- Notification -->
-  <string name="notification_title">Resurrection Remix OS update</string>
+  <string name="notification_title">7up OS update</string>
   <string name="notification_message">Er is een nieuwe versie beschikbaar!</string>
-  <string name="resurrection_channel">ResurrectionOTA meldingen</string>
-  <string name="resurrection_channel_description">Meldingen over nieuwe ResurrectionRemix OS updates</string>
+  <string name="sevenup_channel">7upOTA meldingen</string>
+  <string name="sevenup_channel_description">Meldingen over nieuwe 7up OS updates</string>
   <!-- Dialog -->
   <string name="dialog_message">Zoeken naar ROM updates, een moment geduld&#8230;</string>
   <!-- Toast -->

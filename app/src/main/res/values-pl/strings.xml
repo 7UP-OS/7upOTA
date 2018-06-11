@@ -42,10 +42,10 @@
   <string name="autoupdate_enabled">Automatyczne aktualizacje są włączone</string>
   <string name="autoupdate_disabled">Automatyczne aktualizacje są wyłączone</string>
   <!-- Notification -->
-  <string name="notification_title">Aktualizacja ResurrectionRemix OS</string>
+  <string name="notification_title">Aktualizacja 7up OS</string>
   <string name="notification_message">Dostępna jest nowa wersja!</string>
-  <string name="resurrection_channel">Powiadomienia ResurrectionOTA</string>
-  <string name="resurrection_channel_description">Powiadomienia o nowych aktualizacjach ResurrectionRemixOS</string>
+  <string name="sevenup_channel">Powiadomienia 7upOTA</string>
+  <string name="sevenup_channel_description">Powiadomienia o nowych aktualizacjach 7upOS</string>
   <!-- Dialog -->
   <string name="dialog_message">Sprawdzanie dostępności aktualizacji, proszę czekać&#8230;</string>
   <!-- Toast -->

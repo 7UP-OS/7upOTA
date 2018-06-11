@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.resurrection.ota.tasks;
+package com.sevenup.ota.tasks;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -30,16 +30,16 @@ import android.os.Handler;
 import android.os.Message;
 import android.support.v4.app.NotificationCompat;
 
-import com.resurrection.ota.MainActivity;
-import com.resurrection.ota.R;
-import com.resurrection.ota.configs.AppConfig;
-import com.resurrection.ota.configs.LinkConfig;
-import com.resurrection.ota.configs.OTAConfig;
-import com.resurrection.ota.configs.OTAVersion;
-import com.resurrection.ota.dialogs.WaitDialogHandler;
-import com.resurrection.ota.utils.OTAUtils;
-import com.resurrection.ota.xml.OTADevice;
-import com.resurrection.ota.xml.OTAParser;
+import com.sevenup.ota.MainActivity;
+import com.sevenup.ota.R;
+import com.sevenup.ota.configs.AppConfig;
+import com.sevenup.ota.configs.LinkConfig;
+import com.sevenup.ota.configs.OTAConfig;
+import com.sevenup.ota.configs.OTAVersion;
+import com.sevenup.ota.dialogs.WaitDialogHandler;
+import com.sevenup.ota.utils.OTAUtils;
+import com.sevenup.ota.xml.OTADevice;
+import com.sevenup.ota.xml.OTAParser;
 
 import org.xmlpull.v1.XmlPullParserException;
 
@@ -158,16 +158,16 @@ public class CheckUpdateTask extends AsyncTask<Context, Void, OTADevice> {
             NotificationManager notificationManager =
                     (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
             int notifyID = 1;
-            String id = "resurrectionota_channel";
-            CharSequence name = context.getString(R.string.resurrection_channel);
-            String description = context.getString(R.string.resurrection_channel_description);
+            String id = "sevenupota_channel";
+            CharSequence name = context.getString(R.string.sevenup_channel);
+            String description = context.getString(R.string.sevenup_channel_description);
             int importance = NotificationManager.IMPORTANCE_LOW;
             NotificationChannel mChannel = new NotificationChannel(id, name, importance);
             mChannel.setDescription(description);
             notificationManager.createNotificationChannel(mChannel);
 
             NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(context.getApplicationContext())
-                    .setSmallIcon(R.drawable.ic_notification_resurrection)
+                    .setSmallIcon(R.drawable.ic_notification_sevenup)
                     .setContentTitle(context.getString(R.string.notification_title))
                     .setContentText(context.getString(R.string.notification_message))
                     .setOnlyAlertOnce(true)

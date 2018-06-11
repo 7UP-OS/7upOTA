@@ -42,10 +42,10 @@
   <string name="autoupdate_enabled">Cập nhật tự động được kích hoạt</string>
   <string name="autoupdate_disabled">Cập nhật tự động bị vô hiệu hóa</string>
   <!-- Notification -->
-  <string name="notification_title">Cập nhật ResurrectionRemix OS</string>
+  <string name="notification_title">Cập nhật 7up OS</string>
   <string name="notification_message">Một phiên bản mới có sẵn!</string>
-  <string name="resurrection_channel">Thông báo ResurrectionOTA</string>
-  <string name="resurrection_channel_description">Thông báo về bản cập nhật mới ResurrectionRemix OS</string>
+  <string name="sevenup_channel">Thông báo 7upOTA</string>
+  <string name="sevenup_channel_description">Thông báo về bản cập nhật mới 7up OS</string>
   <!-- Dialog -->
   <string name="dialog_message">Đang kiểm tra các cập nhật ROM, vui lòng chờ&#8230;</string>
   <!-- Toast -->

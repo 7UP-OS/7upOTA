@@ -44,8 +44,8 @@
   <!-- Notification -->
   <string name="notification_title">रेसुर्रेक्शन रीमिक्स OS अद्यतन</string>
   <string name="notification_message">नयी संस्करण उपलब्ध है!</string>
-  <string name="resurrection_channel">ResurrectionOTA सूचनाएं</string>
-  <string name="resurrection_channel_description">नए ResurrectionRemix OS अपडेट के बारे में सूचनाएं</string>
+  <string name="sevenup_channel">7upOTA सूचनाएं</string>
+  <string name="sevenup_channel_description">नए 7up OS अपडेट के बारे में सूचनाएं</string>
   <!-- Dialog -->
   <string name="dialog_message">ROM अपडेट की जाँच हो रही है, कृपया प्रतीक्षा करें...</string>
   <!-- Toast -->

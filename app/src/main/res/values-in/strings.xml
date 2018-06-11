@@ -42,10 +42,10 @@
   <string name="autoupdate_enabled">Pembaruan otomatis dihidupkan</string>
   <string name="autoupdate_disabled">Pembaruan otomatis dimatikan</string>
   <!-- Notification -->
-  <string name="notification_title">ResurrectionRemix OS update</string>
+  <string name="notification_title">7up OS update</string>
   <string name="notification_message">Versi terbaru telah tersedia!</string>
-  <string name="resurrection_channel">Notifikasi OTA RR</string>
-  <string name="resurrection_channel_description">Notifikasi pembaruan terbaru ROM ResurrectionRemix</string>
+  <string name="sevenup_channel">Notifikasi OTA 7up</string>
+  <string name="sevenup_channel_description">Notifikasi pembaruan terbaru ROM 7up</string>
   <!-- Dialog -->
   <string name="dialog_message">Memeriksa pembaruan ROM, harap tunggu&#8230;</string>
   <!-- Toast -->

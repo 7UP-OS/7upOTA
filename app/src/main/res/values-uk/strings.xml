@@ -42,10 +42,10 @@
   <string name="autoupdate_enabled">Автоматичне оновлення увімкнено</string>
   <string name="autoupdate_disabled">Автоматичне оновлення вимкнено</string>
   <!-- Notification -->
-  <string name="notification_title">ResurrectionRemix оновлення ОС</string>
+  <string name="notification_title">7up оновлення ОС</string>
   <string name="notification_message">Доступна нова версія!</string>
-  <string name="resurrection_channel">Сповіщення ResurrectionOTA</string>
-  <string name="resurrection_channel_description">Сповіщення про нові оновлення ОС ResurrectionRemix</string>
+  <string name="sevenup_channel">Сповіщення 7upOTA</string>
+  <string name="sevenup_channel_description">Сповіщення про нові оновлення ОС 7up</string>
   <!-- Dialog -->
   <string name="dialog_message">Перевірка оновлень, будь ласка, зачекайте&#8230;</string>
   <!-- Toast -->
